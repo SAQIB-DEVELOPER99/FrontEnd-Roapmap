@@ -1,2 +1,2 @@
 # FrontEnd-Roapmap
-Simple HTML site showing RoadMap to learn FrontEnd Development
+Simple HTML page showing RoadMap to learn FrontEnd Development
